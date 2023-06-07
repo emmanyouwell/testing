@@ -30,6 +30,5 @@
                 </div>
             @endforeach
     {{-- @endforeach --}}
-                <div>{{$items->links()}}</div>
 @endsection
 
