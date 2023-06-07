@@ -9,6 +9,7 @@
         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
         </button>
+        <button>Reset</button>
     </div>
     @endif
     {{-- @foreach ($items->chunk(2) as $itemChunk) --}}
