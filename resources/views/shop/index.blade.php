@@ -29,6 +29,8 @@
                   </div>
                 </div>
             @endforeach
+
+            <div>{{$items->links()}}</div>
     {{-- @endforeach --}}
 @endsection
 
