@@ -25,6 +25,7 @@
                            <a href="{{ route('addToCart', $item->item_id) }}" class="btn btn-primary" role="button"><i class="fas fa-cart-plus"></i> Add to Cart</a> <a href="#" class="btn btn-default pull-right" role="button">
 
                             <i class="fas fa-info"></i> More Info</a>
+                            <button>Press the button</button>
                       </div>
                     </div>
                   </div>
