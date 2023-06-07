@@ -1,6 +1,6 @@
 @extends('layouts.master')
 @section('title')
-    Laravel shopping Cart
+    Hello World
 @endsection
 @section('content')
 @if(Session::has('error'))
