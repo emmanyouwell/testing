@@ -1,6 +1,6 @@
 @extends('layouts.master')
 @section('title')
-  laravel shopping cart
+  Change Title
 @endsection
 @section('content')
 @if(Session::has('success'))
