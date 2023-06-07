@@ -1,6 +1,6 @@
 @extends('layouts.master')
 @section('title')
-    Hello World
+    TUPT
 @endsection
 @section('content')
 @if(Session::has('error'))
